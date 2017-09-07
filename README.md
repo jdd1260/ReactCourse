@@ -1,6 +1,9 @@
-# ReduxSimpleStarter
+# LearningReact
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+I'm learning React and Redux in a [Udemy course](https://www.udemy.com/react-redux/learn/v4/overview). This is where I'm saving my work. You can check out the various projects that I've done in the branches. So far there are:
+- youtubeSearch: An app to allow for the searching, listing, and playing of Youtube videos
+- reduxLearning: An app used to learn the basics of state management with Redux. Allows for viewing a book list and selecting a book for more info. Pretty simple.
+- weatherApp: An app that allows the user to search for cities and see a simple 5 day weather forecast for all of them combined. Uses a public weather API and the Google Maps API to display the city location. 
 
 ### Getting Started
 
